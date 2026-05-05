@@ -1,0 +1,16 @@
+
+# Auto-generated files
+outputs/sql_results.pkl
+outputs/price_tracker.db
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
